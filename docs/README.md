@@ -1,4 +1,3 @@
-[Uploading FuelBonus_Card_Loyalty_Program_-_BRD.pdf…]()
 # Documentation
 
 This directory contains all business and technical documentation related to the FuelBonus Card Loyalty Platform.
